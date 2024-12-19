@@ -1,0 +1,84 @@
+### To-Do List for a 2D Metroidvania/Roguelike Game (Bind of The Forsaken)
+
+#### **1. Concept and Design**
+- [ ] Define the game world and setting (e.g., fantasy, gothic, steampunk)
+- [ ] Exploration mechanics: wall-jumping, climbing, sliding, flying, underwater movement
+- [ ] Combat system: melee, ranged, magic?, combo-based
+- [ ] Develop story and lore (main story, characters, world backstory)
+- [ ] Define art style (pixel art, hand-drawn, etc.)
+
+#### **2. Game Mechanics**
+- **Movement and Controls**
+  - [✅] Running, jumping, crouching, dashing, climbing
+  - [ ] Aiming and targeting for ranged combat
+  - [ ] Wall-jumping, double jumping, or other traversal mechanics
+
+- **Combat Mechanics**
+  - [✅] Melee combat (light/heavy attacks, combos)
+  - [ ] Ranged attacks (projectiles, limited ammo)
+  - [ ] Magic abilities and power-ups
+  - [✅] Blocking and dodging mechanics
+  - [ ] Boss battles with unique mechanics
+
+- **Exploration Mechanics**
+  - [ ] Interactive environmental objects (levers, switches, doors)
+  - [ ] Hidden areas, secret rooms, and collectibles
+  - [ ] Environmental puzzles (moving blocks, pressure plates, etc.)
+  - [ ] NPCs that provide quests, lore, or upgrades
+
+#### **3. Player Progression and Balance**
+- **Abilities and Upgrades**
+  - [ ] Unlockable abilities (e.g., double jump, dash, teleport, glide)
+  - [ ] New weapons, armor, or tools
+  - [ ] Skill trees or ability progression
+
+- **Difficulty Scaling**
+  - [ ] Dynamic difficulty or multiple difficulty settings
+  - [ ] Randomized enemy spawns or bosses
+  - [ ] Health and resource management (e.g., potions, limited respawns)
+
+- **Level Design**
+  - [ ] Large interconnected map with backtracking and exploration
+  - [ ] Areas that are unlocked with new abilities
+  - [ ] Randomly generated rooms or challenges (for roguelike elements)
+
+#### **4. Audio/Visual Design**
+- **Graphics and Visual Atmosphere**
+  - [ ] 2D sprite creation for characters, enemies, and environments
+  - [ ] Parallax scrolling for depth
+  - [ ] Lighting and shading to create mood
+  - [ ] Smooth animations for player and enemy actions
+
+- **Sound Design**
+  - [ ] Background music that adapts to the game’s atmosphere
+  - [ ] Sound effects for attacks, environment interaction, and player actions
+  - [ ] Voiceovers for story and NPC interactions (optional)
+
+#### **5. Game Balance and Testing**
+- **Gameplay Testing**
+  - [ ] Test all movement and combat mechanics for fluidity and responsiveness
+  - [ ] Ensure progression feels balanced and rewarding
+  - [ ] Test ability unlocks and how they impact exploration and combat
+
+- **Bug Fixing**
+  - [ ] Fix any collision, input, or animation bugs
+  - [ ] Optimize performance for smooth frame rates
+
+#### **6. Additional Features**
+- **Character Customization**
+  - [ ] Visual customization (skins, outfits, equipment)
+  - [ ] Stat upgrades or modifiers for skills, health, and speed
+
+- **NPCs and Quests**
+  - [ ] NPCs with storylines, side quests, and rewards
+  - [ ] Choices that affect the story or unlock new areas
+
+- **Multiplayer (Optional)**
+  - [ ] Local or online co-op play
+  - [ ] Competitive modes or player-versus-player challenges
+
+#### **7. Polish and Launch**
+- [ ] Final art pass and UI design
+- [ ] Implement achievements and unlockables
+- [ ] Prepare a trailer and marketing materials
+- [ ] Launch the game on the chosen platforms
