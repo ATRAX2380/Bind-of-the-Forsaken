@@ -9,15 +9,15 @@
 
 #### **2. Game Mechanics**
 - **Movement and Controls**
-  - [✅] Running, jumping, crouching, dashing, climbing
+  - [ ] Running, jumping, crouching, dashing, climbing
   - [ ] Aiming and targeting for ranged combat
   - [ ] Wall-jumping, double jumping, or other traversal mechanics
 
 - **Combat Mechanics**
-  - [✅] Melee combat (light/heavy attacks, combos)
+  - [ ] Melee combat (light/heavy attacks, combos)
   - [ ] Ranged attacks (projectiles, limited ammo)
   - [ ] Magic abilities and power-ups
-  - [✅] Blocking and dodging mechanics
+  - [ ] Blocking and dodging mechanics
   - [ ] Boss battles with unique mechanics
 
 - **Exploration Mechanics**
